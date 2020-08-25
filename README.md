@@ -1,16 +1,15 @@
 # PushVendor Prototype
 
-This is an early prototype for the PushVendor point of sale that we decided to open source. Our new commercial offering bears little resemblence to this early prototype. You're free to take this repo and use it as you will. We learned a lot from this experiment.
-
+This is a private Fork of the PushVendor point of sale that we cloned.
 
 ## Getting Started
 
 ```
-git clone https://github.com/websitescenes/pushvendor.git
+git clone git@github.com:franciscoGPS/pos.git
 ```
 
 ```
-cd pushvendor
+cd pos
 ```
 
 ```
@@ -32,14 +31,9 @@ visit: localhost:3000/
 Default Credentials: admin, password
 
 
-## Online Demo (May not be current)
-
-Demo Available @ demo.pushvendor.com
-
 ## To-do
 
 * rspec tests for controllers
-
 
 
 ## Contributing
